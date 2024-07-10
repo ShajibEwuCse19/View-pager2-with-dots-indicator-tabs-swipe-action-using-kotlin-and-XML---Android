@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ViewPagerPractice2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--primary color-->
+        <item name="colorPrimary">@color/purple_500</item>"
+        <item name="colorPrimaryVariant">@color/purple_700</item>"
+        <item name="colorOnPrimary">@color/white</item>"
+        <!--secondary color-->
+        <item name="colorSecondary">@color/teal_200</item>"
+        <item name="colorSecondaryVariant">@color/teal_700</item>"
+        <item name="colorOnSecondary">@color/black</item>"
+        <!--status bar color-->
+        <item name="android:statusBarColor">@color/light_purple</item>"
+    </style>
+
+    <style name="Theme.ViewPagerPractice2" parent="Base.Theme.ViewPagerPractice2" />
+</resources>
